@@ -1,0 +1,20 @@
+#harmas {
+    display: grid;
+    grid-template-columns: 33.33% 33.33% 33.33%;
+    height: 20rem;
+}
+
+#vizsga {
+    background-image: url('img/pexels-coding-1853305_1280.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+#harmas h2, #harmas p {padding: 0 2rem;}
+
+#vizsga:hover {
+    background-image: none;
+    color: #0881A3;
+    transition: .5s;
+}
