@@ -107,6 +107,14 @@ button a:hover {
         background-size:cover;
     }
 
+    #ai {
+        background-image: url("../img//machinelearning.png");
+        background-attachment: fixed;/*CSAK ENNYIT ÍRTAM HOZZÁ!!!*/
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size:cover;
+    }
+
     h1 {
         padding: 3rem 0;
         text-align: center;
